@@ -15,10 +15,9 @@
 将此工具复制到您的安装介质中，与 `setup.exe` 放在一起并运行。或者单独启动它并输入安装文件的路径。
 支持外部安装文件，例如已挂载或解压的 ISO。
 
-![IUH3](https://github.com/TheMMC/In-Place_Upgrade_Helper/assets/87301831/d12cf777-2699-4faa-8552-65e818078dd2)
-![IUH4](https://github.com/TheMMC/In-Place_Upgrade_Helper/assets/87301831/da2961c9-e1f2-43b1-8141-df625449ff9d)
-![IUH1](https://github.com/TheMMC/In-Place_Upgrade_Helper/assets/87301831/65a2bdbb-b052-4941-9ea3-db043227fc2b)
-![IUH2](https://github.com/TheMMC/In-Place_Upgrade_Helper/assets/87301831/fc55ea9d-93a2-484d-96cb-c7ccd029af61)
+![IUH3](https://github.com/pyCharmikun1/In-Place_Upgrade_Helper_Chinese/blob/main/1.png)
+![IUH1](https://github.com/pyCharmikun1/In-Place_Upgrade_Helper_Chinese/blob/main/2.png)
+![IUH2](https://github.com/pyCharmikun1/In-Place_Upgrade_Helper_Chinese/blob/main/3.png)
 
 请注意：
 
