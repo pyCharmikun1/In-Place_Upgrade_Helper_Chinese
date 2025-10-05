@@ -15,10 +15,9 @@ This tool can upgrade Windows via four different methods:
 Copy this tool to your installation media alongside `setup.exe` and run it. Or start it by itself and enter the path of your installation files.
 External installation files, like a mounted or extracted ISO, are supported.
 
-![IUH3](https://github.com/TheMMC/In-Place_Upgrade_Helper/assets/87301831/d12cf777-2699-4faa-8552-65e818078dd2)
-![IUH4](https://github.com/TheMMC/In-Place_Upgrade_Helper/assets/87301831/da2961c9-e1f2-43b1-8141-df625449ff9d)
-![IUH1](https://github.com/TheMMC/In-Place_Upgrade_Helper/assets/87301831/65a2bdbb-b052-4941-9ea3-db043227fc2b)
-![IUH2](https://github.com/TheMMC/In-Place_Upgrade_Helper/assets/87301831/fc55ea9d-93a2-484d-96cb-c7ccd029af61)
+![IUH3](https://github.com/pyCharmikun1/In-Place_Upgrade_Helper_Chinese/blob/main/1.png)
+![IUH1](https://github.com/pyCharmikun1/In-Place_Upgrade_Helper_Chinese/blob/main/2.png)
+![IUH2](https://github.com/pyCharmikun1/In-Place_Upgrade_Helper_Chinese/blob/main/3.png)
 
 Please note:
 
