@@ -1,0 +1,2 @@
+这是由In-Place_Upgrade_Helper项目二改汉化
+如出现乱文字请将编码格式保存为ANSI格式
